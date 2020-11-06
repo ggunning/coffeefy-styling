@@ -1,0 +1,10 @@
+
+:host {
+	background: #003C60;
+
+	.header {
+		&__hamburger {
+			@include button($background-color: #003C60);
+		}
+	}
+}

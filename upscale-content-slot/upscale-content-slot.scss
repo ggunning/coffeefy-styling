@@ -1,0 +1,22 @@
+
+:host {
+
+}
+
+.upscale-mobile :host {
+	.configuration {
+		padding: 24px 12px 0px 6px;
+	}
+}
+
+.upscale-tablet :host {
+	.configuration {
+		padding: 12px 12px 0px 12px;
+	}
+}
+
+.upscale-desktop :host  {
+	.configuration {
+		padding: 36px 12px 0px 12px;
+	}
+}
